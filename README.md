@@ -10,3 +10,4 @@
 <li>Arrow Handle</li>
 <li>Radio BUtton Handle</li>
 <h2>Project Preview</h2>
+(https://hamzaashfaq01.github.io/Multi-Functional-Slider/)
